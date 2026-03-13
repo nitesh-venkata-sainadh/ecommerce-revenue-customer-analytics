@@ -103,9 +103,16 @@ Python was used to visualize key patterns in the data.
 Visualizations include:
 
 - Monthly revenue trend
+<img width="846" height="468" alt="image" src="https://github.com/user-attachments/assets/16600d38-c53c-4386-a071-94e447a50499" />
+
 - Top products by revenue
+<img width="1111" height="545" alt="image" src="https://github.com/user-attachments/assets/45f36aa0-3cda-426c-8c77-746c33dc8a90" />
+
 - Top products by quantity
+<img width="1111" height="545" alt="image" src="https://github.com/user-attachments/assets/ce87d9ac-f6ac-4a2d-baff-be5f9bcdc499" />
+
 - Revenue by country
+<img width="935" height="545" alt="image" src="https://github.com/user-attachments/assets/0f78d6d8-943e-4973-92bb-8a30492a1464" />
 
 These charts help reveal patterns in product demand, customer purchasing behavior, and geographic sales distribution.
 
